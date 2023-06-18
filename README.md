@@ -1,2 +1,2 @@
 # critsitmngr
-Critical Situation Manager Python App
+Critical Situation app written in Go language
